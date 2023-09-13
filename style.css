@@ -21,7 +21,7 @@ hr {
   font-size: 16px;
   color: lch(40 60 240);
 }
-.cookieCleanerButton {
+.button {
   width: 100%;
   background-color: black;
   border: none;
