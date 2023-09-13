@@ -1,0 +1,36 @@
+body {
+    padding: 5px;
+    background-color: lch(5 60 240);
+    width: 160px;
+}
+
+.header {
+  text-align: center;
+}
+hr { 
+    display: block;
+    height: 1px;
+    border: 0; 
+    border-top: 3px solid lch(40 60 240);
+    margin: 1em 0;
+    padding: 0; 
+}
+.title {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  color: lch(40 60 240);
+}
+.cookieCleanerButton {
+  width: 100%;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  font-weight: bold;
+}
